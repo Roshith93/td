@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import emailjs from 'emailjs-com'
 import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
@@ -168,7 +168,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy;2021 Made with some <i className='fa fa-heart'></i> & <i className='fa fa-coffee'></i> by{' '}
-            <a href='http://roshith.com' target="_blank" rel='nofollow'>
+            <a href='http://roshith.com' target="_blank"   rel="noreferrer">
               Rosh
             </a>
           </p>
