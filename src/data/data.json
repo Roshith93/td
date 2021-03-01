@@ -1,0 +1,131 @@
+{
+    "Header": {
+
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "Teknical Design is a complete end to end brand marketing agency and branding company in India. We have a wide-range of experience team in creating and promoting brands  which is proficient in market research, corporate design, logo design, brand activation, media planning, digital advertising and strategy, large-scale events, public relations, content creation, web design & Mobile Application        ",
+        "Why": [
+            "Attention to Details",
+            "A Plan for Success",
+            "Creativity",
+            "Experts Only"
+        ],
+        "Why2": [
+            "Pricing",
+            "Meeting Deadlines",
+            "Friendly",
+            "User Support"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-bullhorn",
+            "name": "Branding & Advertising",
+            "text": "Create a competitive advantage with a digital branding strategy that differentiates your organization from the competition."
+        },
+        {
+            "icon": "fa fa-code",
+            "name": "Website Design & Development",
+            "text": "Ensure you’re delivering the right message via the right channels with a social media strategy for your brand."
+        },
+        {
+            "icon": "fa fa-search-plus",
+            "name": "Digital & Social Media Marketing",
+            "text": "Ensure you’re delivering the right message via the right channels with a social media strategy for your brand."
+        },
+        {
+            "icon": "fa fa-search-plus",
+            "name": "Search Engine Optimization & Marketing",
+            "text": "Connect with the right audience at the right time with a holistic SEO approach that will move the needle for your brand."
+        },
+        {
+            "icon": "fa fa-pencil-square",
+            "name": "Graphic Design",
+            "text": "Achieve business results with technology solutions designed to compel your audiences and enhance their interactions with your brand."
+        },
+        {
+            "icon": "fa fa-print",
+            "name": "Printing Services",
+            "text": "If you're looking for a top-quality custom printer with friendly, skilled professionals, look no further. We'll work with you every step of the way as part of our unwavering commitment to exceed your expectations.."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/stephen.jpg",
+            "name": "",
+            "job": ""
+        },
+        {
+            "img": "img/team/robert.jpg",
+            "name": "",
+            "job": ""
+        }, {
+            "img": "img/team/roshith.jpg",
+            "name": "Jane Doe",
+            "job": ""
+        }
+    ],
+    "Contact": {
+        "address": "No13, N.T.C Nagar, Saravanampatti, Coimbatore – 641035",
+        "phone": "+91 8148277832",
+        "email": "td.teknicaldesigns@gmail.com",
+        "facebook": "https://www.facebook.com/Teknical-Designs-114477330683471",
+        "twitter": "twitter.com",
+        "instagram": "https://www.instagram.com/teknical_designs?r=nametag"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
