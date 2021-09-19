@@ -90,11 +90,16 @@
             "job": ""
         },
         {
-            "img": "img/team/robert.jpg",
+            "img": "img/team/roshith.jpg",
             "name": "",
             "job": ""
         }, {
-            "img": "img/team/roshith.jpg",
+            "img": "img/team/revathi.png",
+            "name": "Jane Doe",
+            "job": ""
+        },
+        {
+            "img": "img/team/robert.jpg",
             "name": "Jane Doe",
             "job": ""
         }
@@ -105,7 +110,7 @@
         "email": "td.teknicaldesigns@gmail.com",
         "facebook": "https://www.facebook.com/Teknical-Designs-114477330683471",
         "twitter": "twitter.com",
-        "instagram": "https://www.instagram.com/teknical_designs?r=nametag"
+        "instagram": "https://www.instagram.com/technic_designs"
     },
     "Features": [{
             "icon": "fa fa-comments-o",

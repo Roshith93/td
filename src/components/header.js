@@ -4,16 +4,18 @@ export const Header = (props) => {
     <header id="header">
       <div className="container-fluid intro-text" style={{ width: '100%', padding: '0px' }}>
         <div class="homePage">
+        {/* <img src="img/logos/white/fullLogo.png" style={{style:100,width:100}}/> */}
+              <img src="img/logos/white/fullLogo.png" style={{height:100, marginBottom:150}}/>
           <div class="textChangeContainer">
-            <p className="changeText">
-              WE BUILD &nbsp;
-                        <span class="txt-rotate whiteColorBig" data-period="2000"
+            <div className="changeText" >
+             <span style={{fontWeight:100, fontSize:25}}> WE BUILD </span>&nbsp;
+                        <span class="txt-rotate " data-period="2000"
                 data-rotate='[ "WEBSITES.", "BRANDS.", "STATERGIES." ]'></span>
-            </p>
+            </div>
           </div>
           <p className="textChangeContainerMiddle">that <span>defy</span> expectations</p>
           <p class="textChangeContainerBelow element ">
-             <span class="whiteColorSmall"> TECHNICAL DESIGNS </span> 
+             {/* <span class=""> TECHNIC DESIGNS </span>  */}
             
                     </p>
           <br />

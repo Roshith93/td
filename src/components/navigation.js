@@ -30,7 +30,7 @@ export const Navigation = (props) => {
           <a className='navbar-brand page-scroll' href='#page-top' id="logo">
 
             <img src="img/logos/black/ref.png" alt="Techincal Design Logo" className="img-fluid d-inline-block align-middle mr-2" style={{width:"40px"}}/>
-            <span class="text-uppercase font-weight-bold"> Technical designs</span>
+            <span class="text-uppercase font-weight-bold"> Technic designs</span>
            
           </a>{' '}
         </div>
@@ -60,11 +60,11 @@ export const Navigation = (props) => {
                 Gallery
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a href='#testimonials' className='page-scroll'>
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#team' className='page-scroll'>
                 Team
