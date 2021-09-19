@@ -5,7 +5,7 @@ export const Header = (props) => {
       <div className="container-fluid intro-text" style={{ width: '100%', padding: '0px' }}>
         <div class="homePage">
         {/* <img src="img/logos/white/fullLogo.png" style={{style:100,width:100}}/> */}
-              <img src="img/logos/white/fullLogo.png" style={{height:100, marginBottom:150}}/>
+              <img src="img/logos/white/fullLogo.png" alt="company technic design" style={{height:100, marginBottom:150}}/>
           <div class="textChangeContainer">
             <div className="changeText" >
              <span style={{fontWeight:100, fontSize:25}}> WE BUILD </span>&nbsp;
