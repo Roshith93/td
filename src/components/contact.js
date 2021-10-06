@@ -168,8 +168,8 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy;2021 Made with some <i className='fa fa-heart'></i> & <i className='fa fa-coffee'></i> by{' '}
-            <a href='http://roshith.com' target="_blank"   rel="noreferrer">
-              Rosh
+            <a href='https://technicdesigns.in/' target="_blank"   rel="noreferrer">
+            Technic designs
             </a>
           </p>
         </div>
